@@ -17,7 +17,5 @@ Then simply add the CSS code to your userchrome.css, or use stylish and create a
 
 * No line (shadow) on active tab.
 
-## Screenshot
 
-![screenshot](http://i.imgur.com/4JUMxPx.png)  
 
