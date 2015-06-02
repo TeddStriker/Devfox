@@ -8,4 +8,16 @@ To use the CSS, first enable the developer theme in about:config, this should be
 `devtools.theme > dark` To set it to dark.
 
 Then simply add the CSS code to your userchrome.css, or use stylish and create a new style.
- 
+
+## Notable edits
+
+* Tabs on bottom.
+
+* Reduced tab height.
+
+* No line (shadow) on active tab.
+
+## Screenshot
+
+![screenshot](http://i.imgur.com/4JUMxPx.png)  
+
