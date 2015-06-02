@@ -1,0 +1,30 @@
+/* HIDDEN ELEMENTS */  
+
+/* No line on tab selected */
+tab[selected="true"] {box-shadow: none !important;}
+
+/* No load progress indicator */
+.tab-throbber{display:none !important;}
+
+/* No site favicon */
+.tab-icon-image{display:none !important;}
+
+/* No "X" button to close tab */
+.tab-close-button{display:none !important;}
+ 
+/* TABS */
+
+/* Tabs on bottom */
+#TabsToolbar{-moz-box-ordinal-group:10000!important}
+
+/* Adjust tab label padding */
+.tabbrowser-tab label { padding: 0 3px 8px 3px !important; } 
+
+/* Sets height to 23px */
+#TabsToolbar, #tabbrowser-tabs {height: 23px !important; min-height: 23px !important; }
+
+/* Sekected tab background color */
+tab[selected="true"] {background-color: #214F80 !important;}   
+
+
+  
